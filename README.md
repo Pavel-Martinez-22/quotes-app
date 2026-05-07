@@ -14,4 +14,4 @@ The user interface is styled with custom CSS to provide a clean, responsive, and
 visually engaging experience, incorporating icons, animations, and a category ribbon to enhance usability. This frontend demonstrates effective separation of concerns, client-side data handling, and dynamic DOM manipulation without the use of external
 frameworks.
 </p>
-<p>Website link: https://quotes-app-xvx0.onrender.com/ </p>
+<p>Website link:<a href="https://quotes-app-xvx0.onrender.com/" target="_blank"> https://quotes-app-xvx0.onrender.com/ </a> </p>
